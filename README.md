@@ -1,2 +1,2 @@
 TinDog - A Tinder for Dogs!
-Business Webstie
+Landing Page Webstie Iv'e built implemeting bootsrap librareis, CSS and HTML.
